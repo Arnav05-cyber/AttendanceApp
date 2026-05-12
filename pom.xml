@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.arnav</groupId>
-	<artifactId>attendaceapp</artifactId>
+	<artifactId>attendanceapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

@@ -36,5 +36,5 @@ public class CalendarDay {
 
     @ManyToOne
     @JoinColumn(name = "semester_id")
-    private Semester Semester;
+    private Semester semester;
 }

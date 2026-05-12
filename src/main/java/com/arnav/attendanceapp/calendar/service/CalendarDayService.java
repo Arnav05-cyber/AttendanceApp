@@ -43,4 +43,8 @@ public class CalendarDayService {
         return calendarDays;
     }
 
+    public List<CalendarDay> getSemesterCalendar(String semesterId) {
+        return calendarDayRepo.findBySemesterId(Long.parseLong(semesterId));
+    }
+
 }
